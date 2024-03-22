@@ -36,7 +36,7 @@ To run the code, ensure you have Python installed along with necessary libraries
             <td>0.7415±0.0147</td>
         </tr>
         <tr>
-            <td>y</td>
+            <td></td>
             <td>Sheet</td>
             <td>0.6436±0.0121</td>
         </tr>
@@ -51,12 +51,12 @@ To run the code, ensure you have Python installed along with necessary libraries
             <td>0.9209±0.0147</td>
         </tr>
         <tr>
-            <td>Specificity</td>
+            <td></td>
             <td>Sheet</td>
             <td>0.9451±0.0038</td>
         </tr>
         <tr>
-            <td>Specificity</td>
+            <td></td>
             <td>Coil</td>
             <td>0.7513±0.0134</td>
         </tr>
@@ -66,12 +66,12 @@ To run the code, ensure you have Python installed along with necessary libraries
             <td>0.8511±0.0013</td>
         </tr>
         <tr>
-            <td>Accuracy</td>
+            <td></td>
             <td>Sheet</td>
             <td>0.8724±0.0009</td>
         </tr>
         <tr>
-            <td>Accuracy</td>
+            <td></td>
             <td>Coil</td>
             <td>0.7831±0.0035</td>
         </tr>
