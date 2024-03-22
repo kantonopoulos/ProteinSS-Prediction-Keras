@@ -9,7 +9,7 @@ The project utilized neural networks to predict protein secondary structures fro
 
 ## Repository Structure
 - Jupyter Notebook: Contains the Python code for the project.
-- Data: Includes datasets used for training, cross-validation, and testing the models.
+- Data: Includes datasets used for training, cross-validation, and testing the models. The data were sourced from Katarina Elez's GitHub repository at https://github.com/katarinaelez/protein-ss-pred.
 - Results: Contains visualizations and metrics evaluating model performance.
 - Documentation: Additional documentation and resources related to the project.
 
