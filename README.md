@@ -16,6 +16,26 @@ The project utilized neural networks to predict protein secondary structures fro
 ## Usage
 To run the code, ensure you have Python installed along with necessary libraries like NumPy, Pandas, Matplotlib, Seaborn, TensorFlow, Keras, and scikit-learn. Clone the repository and execute the Jupyter Notebook files in the 'Notebooks' directory.
 
+### Package Installment
+```
+pip install numpy
+pip install pandas
+pip install matplotlib
+pip install seaborn
+pip install keras
+pip install keras-tuner
+pip install tensorflow
+pip install scikit-learn
+```
+
+### Jupyter Notebook Installment
+```
+pip install notebook
+```
+
+### Repository Cloning
+git clone https://github.com/kantonopoulos/ProteinSS-Prediction-Keras
+
 ## Performance
 <table>
     <thead>
