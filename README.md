@@ -27,7 +27,6 @@ To run the code, ensure you have Python installed along with necessary libraries
     <tbody align="right">
         <tr align="center">
             <td></td>
-            <td>Metric</td>
             <td>Class</td>
             <td>Blind test</td>
         </tr>
@@ -37,12 +36,12 @@ To run the code, ensure you have Python installed along with necessary libraries
             <td>0.7415±0.0147</td>
         </tr>
         <tr>
-            <td>Sensitivity</td>
+            <td>y</td>
             <td>Sheet</td>
             <td>0.6436±0.0121</td>
         </tr>
         <tr>
-            <td>Sensitivity</td>
+            <td></td>
             <td>Coil</td>
             <td>0.8373±0.0137</td>
         </tr>
